@@ -4,5 +4,5 @@ Proyecto de ejemplo para la *clase 2*
 Aca estarian listados los requisitos del proyecto:  
 +elemento1  
 +elemento2  
-+elemento3  
++elemento3  44
 
