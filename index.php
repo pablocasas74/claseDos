@@ -8,6 +8,6 @@
 echo "Primer Linea Master<br/>";
 echo "Segunda Linea Master<br/>";
 echo "Tercer Linea exclusiva Test";
-echo "<br/>";
+echo "conflicto";
 echo "Cuarta/quinta linea test";
 ?>
